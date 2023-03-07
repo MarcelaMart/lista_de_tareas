@@ -4,8 +4,8 @@ se puede agregar y quitar tareas de la lista
 ## funcionalidades
 1. agregar nueva tarea a la lista
 2. ver la lista de tareas
-  * resalta las tareas con un color segun el status (verde: tareas completas, rojo: tareas incompletas)
-  * mostrar las tareas con un status definido
+    * resalta las tareas con un color segun el status (verde: tareas completas, rojo: tareas incompletas)
+    * mostrar las tareas con un status definido
 3. quitar una tarea de la lista
 4. editar el texto de una tarea 
 5. marcar una tarea como terminada
